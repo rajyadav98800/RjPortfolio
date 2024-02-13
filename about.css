@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+
+body {
+  color: #ededed;
+  background: #081b29;
+}
+
+.services-list div {
+  text-align: center;
+  background-color: transparent;
+  padding: 40px;
+  margin-left: 6em;
+  margin-top: 5px;
+  margin-right: 8%;
+  height: 85vh;
+  font-size: 13px;
+  font-weight: 13px;
+  border-right: 10px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 20px #012290f7, 1px 1px 40px #0053b8f7;
+}
+
+.about-text {
+  font-size: 60px;
+  text-align: center;
+}
+
+.about-text span {
+  color: #0ef;
+}
+
+.services-list span {
+  font-size: medium;
+ 
+  
+}
+
+.services-list mark{
+  font-weight: 750;
+}
+
+.logo {
+  position: absolute;
+  left: 34px;
+  height: 2rem;
+  width: 2rem;
+}
+
+.services-list img{
+  height: 34em;
+  position: relative;
+  float: left;
+ 
+}
